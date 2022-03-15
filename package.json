@@ -1,0 +1,14 @@
+{
+  "name": "picgo-plugin-mmwiki",
+  "version": "1.0.0",
+  "description": "Picgo plugin for mmwiki.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://github.com/wowtalon",
+  "license": "ISC",
+  "keywords": [
+    "picgo-gui-plugin"
+  ]
+}
